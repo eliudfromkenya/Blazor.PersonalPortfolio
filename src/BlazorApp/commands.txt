@@ -1,0 +1,1 @@
+npx tailwindcss -i ./src/BlazorApp/wwwroot/styles/tailwind-input.css -o ./src/BlazorApp/wwwroot/styles/tailwind-output.css --watch
